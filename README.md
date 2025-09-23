@@ -1,7 +1,11 @@
-# PHP-Projects
 
-Project-1-simple-laravel Database: MySQL<br>
-Project-2-encyclopedia-laravel Database: MySQL<br>
-Project-3-image-view-laravel Database: MySQL<br>
-Project-4-pdf-laravel Database: MySQL<br>
-Project-5-simple-codelgniter<br>
+PHP Projects
+1. Project 1 : Simple Laravel (Database: MySQL)
+2. Project 2 : Encyclopedia Laravel (Database: MySQL)
+3. Project 3 : Image View Laravel (Database: MySQL)
+4. Project 4 : PDF Laravel (Database: MySQL)
+5. Project 5 : Simple Codelgniter (Frontend)
+
+---------------------------------------------------------
+Laravel Setup
+
